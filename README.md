@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mouad</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/005/935/701/non_2x/web-development-software-program-flat-illustration-free-vector.jpg" >
-- All of my projects are available at [https://mouad177.github.io/MyPortfolio/](https://mouad177.github.io/MyPortfolio/)
+- All of my projects are available at https://mouad177.github.io/MyPortfolio/
 
 - How to reach me **mouadagzennaibakhouch@gmail.com**
 
